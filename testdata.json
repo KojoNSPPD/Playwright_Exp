@@ -1,0 +1,13 @@
+{
+    "username":"mukesh@gmail.com",
+    "password": "admin@123",
+    "name":"mukesh",
+    "interest":["Cypress","Java","API"],
+    "gender":"Male",
+    "address":
+             {
+                "area":"HSR",
+                "city":"Bangalore",
+                "pincode":"556699"
+             }
+}
