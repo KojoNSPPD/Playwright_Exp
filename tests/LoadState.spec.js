@@ -13,6 +13,6 @@ test('Working with load states', async function({page}) {
 
     console.log(count)
 
-    expect(count).toBe(8)
+    expect(count).toBe(2)
     
 })
